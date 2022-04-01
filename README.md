@@ -8,5 +8,8 @@ Forked from source bundle hosted at: https://CRAN.R-project.org/package=minqa
 
 Project website: https://optimizer.r-forge.r-project.org/
 
-
-
+## Installation
+To install, download the source `.tar.gz` file, and then:
+```
+    R CMD INSTALL minqa-x.y.z.tar.gz
+```
