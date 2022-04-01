@@ -6,5 +6,7 @@ Derivative-free optimization by quadratic approximation based on an interface to
 
 Forked from source bundle hosted at: https://CRAN.R-project.org/package=minqa
 
+Project website: https://optimizer.r-forge.r-project.org/
+
 
 
