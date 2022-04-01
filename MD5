@@ -5,7 +5,7 @@ aae64ab96c25bdc2cf71d493cc6c2f99 *R/minqa.R
 6349999aed75efa8afce1e9e56db610d *man/bobyqa.Rd
 6566309b9f1643a9b397dc3d523989f8 *man/newuoa.Rd
 41e3efa2069146b80ee7cb87ff37f676 *man/uobyqa.Rd
-9fdd9d176f2dc1bda212c941b50cd9ed *src/Makevars
+b1268dc42da105668b24dfcb9197df47 *src/Makevars
 5d035c0d8a1c02024ebbb6f58bf1ae40 *src/Makevars.win
 81597a016bcaeda7a9d4e019ebc47cea *src/altmov.f
 92d72eb69029e0b29bb78f6c6d820c9d *src/bigden.f
