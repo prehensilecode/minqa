@@ -33,3 +33,5 @@
 
 # R
 .Rhistory
+.Rdata
+*.Rout
